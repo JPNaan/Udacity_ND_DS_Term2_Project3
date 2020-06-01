@@ -1,13 +1,12 @@
-IBM Recomendations Project:
+IBM Recommendations Project:
 
-This is the thrid project within the Udacty Data Science Nanodegree program
+This is the third project within the Udacity Data Science Nanodegree program
 
 The files within this project include:
 -README - this readme file
 -Recomendations_with_IBM.html -- an html version of the main workbook
 -Recomendations_with_IBM.ipynb -- the notebook for this Project
--Data > articles_community.csv and user-item-interactions.csv -- main data input 
-     Recomendations
+-Data > articles_community.csv and user-item-interactions.csv -- main data input
 -porject_tests.py -- Udacity provided checks
 -top_5.p, top_10.p, top_20.p -- pickle files used for checks
 -user_item_matrix.p -- Udacity provided data for matrix factorization
